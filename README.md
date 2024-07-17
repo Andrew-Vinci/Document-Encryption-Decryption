@@ -6,7 +6,7 @@
 ## Description
 
 This project uses C++ and various Algorithms in order to encrypt and decrypt
-text files. It works by taking in a text file and provided by the user, and giving the option
+text files. It works by taking in a text file provided by the user, and giving the option
 to use either a sorted or unsorted codex. The codex is the text file that the program pulls from 
 to actually encrypt, and then later decrypt, the documents.
 
