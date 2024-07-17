@@ -15,7 +15,7 @@ I ended up using two different types of searching algorithms with this project. 
 Compared to the unsorted codex, which is quick for small to medium text files. This uses sequential search. It can be used with both sorted and unsorted codex files. I also added a decryption function that allows the user to decrypt a document that has been encoded with the given codex file.
 
 This project was done as a culmination of my Data Structures & Algorithms class at Champlain College. I'm very
-proud of this project. It may not look like much but its fully functional and works exactly as it should. It works just as well  the document decrypting as well. It could actually be used in the real world for all of your spy activities.
+proud of this project. It may not look like much but its fully functional and works exactly as it should. It could actually be used in the real world for all of your spy activities.
 
 Not only that, but this project is also a demonstration of my C++ and Data Strucutres and Algorithms knowlege. I learned programming through C++ and projects just like this and I feel as if this is one of my best demonstrations of determination and sticking it out to see a project through to the end.
 
